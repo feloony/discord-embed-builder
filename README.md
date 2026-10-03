@@ -1,35 +1,38 @@
-# Discord Embed Builder
+# Discord Embed Builder 🎨
 
-A polished, client-side Discord embed builder for creating, previewing and exporting rich embeds.
+A polished, privacy-first visual builder for creating Discord embeds, previewing them in real time, and exporting Discord-ready JSON.
 
-## Features
+## ✨ Features
 
 - Live Discord-style preview
 - Title, description, URL, author and footer
 - Inline fields
-- Color, image and thumbnail support
+- Custom embed color
+- Image and thumbnail support
 - Discord-ready JSON export
-- Downloadable configuration
-- Responsive dark UI
-- No account or backend required
+- Downloadable `discord-embed.json`
+- Responsive dark interface
+- Zero dependencies
 
-## Run locally
-
-Open `index.html` directly, or serve the folder with any static web server.
+## 🚀 Run locally
 
 ```bash
 git clone https://github.com/feloony/discord-embed-builder.git
 cd discord-embed-builder
 ```
 
-## Privacy
+Open `index.html` or use any static web server.
 
-All editing happens locally in your browser. The project does not require a server or upload your draft.
+## 🔒 Privacy
 
-## Contributing
+Editing happens entirely in the browser. No account or backend is required.
 
-Issues, feature requests and pull requests are welcome. Keep contributions focused, accessible and dependency-light.
+## 🤝 Contributing
 
-## License
+Fork the project, improve the builder, test it in a modern browser, and open a pull request.
 
-MIT
+## 📄 License
+
+MIT License.
+
+⭐ Star the project if it helps with your Discord development.
